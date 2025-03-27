@@ -2,7 +2,7 @@ Tenho 21 anos, estudo Ciência da Computação na Universidade de Brasília e so
 
 ## Meus Stats do Github
 [![ink-link's GitHub stats](https://github-readme-stats.vercel.app/api?username=ink-link&show_icons=true&theme=tokyonight)](https://github.com/ink-link/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ink-link&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ink-link&layout=compact&show_icons=true&theme=tokyonight)
 
 
 <!--
