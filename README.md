@@ -2,10 +2,10 @@ Tenho 21 anos, estudo Ciência da Computação na Universidade de Brasília e so
 
 ## Meus Stats do Github
 <a href="https://github.com/ink-link/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ink-link&show_icons=true&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ink-link&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/ink-link/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ink-link&layout=compact&&show_icons=true&theme=synthwave&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ink-link&layout=compact&&show_icons=true&theme=gruvbox&langs_count=8&card_width=320" />
 </a>
 
 
