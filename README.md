@@ -1,4 +1,4 @@
-Tenho 21 anos, estudo Ciência da Computação na Universidade de Brasília e sou estagiário do SEBRAE Nacional. Faço principalmente projetos da faculdade no momento, mas procuro me aprofundar nas áreas de UI/UX e desenvolvimento front-end.
+Tenho 22 anos, estudo Ciência da Computação na Universidade de Brasília e sou estagiário do SEBRAE Nacional. Faço principalmente projetos da faculdade no momento, mas procuro me aprofundar nas áreas de UI/UX e desenvolvimento front-end.
 
 ## Meus Stats do Github
 <a href="https://github.com/ink-link/github-readme-stats">
